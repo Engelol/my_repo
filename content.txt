@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 cherry2
+=======
+cherry1
+>>>>>>> 4fd0988 (add cherry)
